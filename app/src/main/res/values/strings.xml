@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercicio</string>
+    <string name="hint_cliente">txtcliente</string>
+    <string name="hint_data">txtdata</string>
+    <string name="hint_produto">txtproduto</string>
+    <string name="hint_valor">txtvalor</string>
+    <string name="btn_adicionar">btnadicionar</string>
+</resources>
